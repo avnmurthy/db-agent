@@ -1,2 +1,4 @@
+
 cd scripts
+
 ./deploy.sh 
